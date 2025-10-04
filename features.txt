@@ -1,0 +1,43 @@
+Tabel:
+1. Admin				[7]
+2. Chat_request				[9]	
+3. Chat_rooms				[9]
+4. Chat_room_members			[9]	
+5. Collaboration_comment		[4]
+6. Collaboration_files			[4]	
+7. Collaboration_like			[4]
+8. Collaboration_participant		[4]	
+9. Creator				[9]
+10. Event				[9]
+11. Event_categories			[9]	
+12. Event_files				[9]
+13. Event_participant			[9]
+14. Event_scope				[9]
+15. Follow				[9]
+16. Komentar				[9]		
+17. Konten				[9]	
+18. Likes				[9]
+19. Medsos				[9]
+20. Payment				[7]
+21. Recruitment_approvals		[9]
+22. Transactions			[7]
+23. User				[9]
+
+Fitur :
+1. Admin =	a. Profil	- Data Akun			[9]
+				- Edit Data Akun		[5]
+				- Statistik Data Akun		[5]
+
+		b. Event	- Data Event			[9]
+				- Edit dan Delete Data Event	[WIP]
+
+
+		c. Creator
+
+		d. User
+
+		e. Chat
+
+		f. Konten
+
+		g. Transaksi
